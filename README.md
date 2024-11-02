@@ -32,10 +32,10 @@
 
 ### :trophy: Достижения :
 <div>
-  <img src="https://github-profile-trophy.versel.app/?username=margarystotch" alt=""/>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.versel.app/?username=margarystotch" alt=""/>
-  <img src="https://github.com/ryo-ma/github-profile-trophy/?username=margarystotch" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=margarystotch" alt=""/>
 </div>
+
+### 
 
 <!--
 
