@@ -35,7 +35,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=margarystotch" alt=""/>
 </div>
 
-### 
+### :keyboard: Наиболее используемые языки :
+<div>
+  <img src="https://github-profile-stats.vercel.app/api/top-langs/?username=margarystotch" alt=""/>
+</div>
 
 <!--
 
