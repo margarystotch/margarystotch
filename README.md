@@ -37,7 +37,7 @@
 
 ### :keyboard: Наиболее используемые языки :
 <div>
-  <img src="https://github-profile-stats.vercel.app/api/top-langs/?username=margarystotch" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarystotch" alt=""/>
 </div>
 
 <!--
