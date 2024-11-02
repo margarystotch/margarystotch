@@ -40,6 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarystotch" alt=""/>
 </div>
 
+### :bar_chart: Статистика активности :
+<div>
+  <img src="https://github-readme-activity.vercel.app/graph?username=margarystotch&theme=rogue" alt=""/>
+</div>
+
 <!--
 
 ## Hi there 👋
