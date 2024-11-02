@@ -8,6 +8,9 @@
   </a>
 </div>
 
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username=margarystotch&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 
 ## Hi there 👋
