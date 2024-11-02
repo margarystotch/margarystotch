@@ -11,6 +11,11 @@
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username=margarystotch&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div id="hithere" align="center">
+  <h1> Профиль на GitHub </h1>
+</div>
+
 <!--
 
 ## Hi there 👋
