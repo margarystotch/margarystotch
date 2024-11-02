@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="badges" align="center">
   <a href="https://vk.com/margarystotch">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
@@ -11,6 +9,9 @@
 </div>
 
 <!--
+
+## Hi there 👋
+
 **margarystotch/margarystotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
