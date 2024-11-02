@@ -42,7 +42,7 @@
 
 ### :bar_chart: Статистика активности :
 <div>
-  <img src="https://github-readme-activity.vercel.app/graph?username=margarystotch&theme=rogue" alt=""/>
+  <img src="https://github-readme-activity.vercel.app/graph?username=margarystotch&theme=dracula" alt=""/>
 </div>
 
 <!--
